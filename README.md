@@ -12,12 +12,7 @@ Computer Vision:
 * [Neural fields with meta-learning and hypernetworks](https://github.com/vinnik-dmitry07/sdf)
 * [Place recognition (my very first experience with ML)](https://github.com/vinnik-dmitry07/place-recognition)
 
-Neural Fields:
-* [SDF neural field with meta-learning and hypernetworks](https://github.com/vinnik-dmitry07/sdf)
-
-Evolutionary algorithms:
-* [Genetic algorithms and 2D car simulation on Android](https://github.com/vinnik-dmitry07/gen-cars)
-* [Timetable scheduling using genetic algorithms](https://github.com/vinnik-dmitry07/gen-schedule)
+... Many more well-described projects in the Repositories tab 🔝
 
 ## Theses
 * [Master's thesis: "Associative metamemory" (K-NN retrieval agnostic to the database size)](https://github.com/vinnik-dmitry07/marginal-research#masters-thesis-associative-metamemory-in-english-in-ukrainian)
