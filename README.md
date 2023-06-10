@@ -1,5 +1,3 @@
-# Hi there 👋
-
 ## Projects
 Natural Language Processing:
 * [Ask questions to your .pdf](https://github.com/vinnik-dmitry07/llm-odqa)
