@@ -1,8 +1,8 @@
 ## Projects
 Natural Language Processing:
-* [Ask questions to your .pdf](https://github.com/vinnik-dmitry07/llm-odqa)
-* [Doc Bot, disease and doctor classification](https://github.com/vinnik-dmitry07/doc-hack)
-* [Predict whether an email will be opened or not](https://github.com/vinnik-dmitry07/predict-email-opened)
+* [Ask questions to your .pdf (retrieval augmented generation) (work in progress)](https://github.com/vinnik-dmitry07/llm-odqa)
+* [Doc Bot, disease and doctor classification (semantic search, multilabel classification)](https://github.com/vinnik-dmitry07/doc-hack)
+* [Predict whether an email will be opened or not (binary classification)](https://github.com/vinnik-dmitry07/predict-email-opened)
 * [Train chatbot on your Telegram chat](https://github.com/vinnik-dmitry07/chatbot)
 
 Computer Vision:
