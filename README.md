@@ -4,7 +4,7 @@ Natural Language Processing:
 * [Predict whether an email will be opened or not (binary classification)](https://github.com/vinnik-dmitry07/predict-email-opened)
 * [Train chatbot on your Telegram chat](https://github.com/vinnik-dmitry07/chatbot)
 * [Ask questions to your .pdf (retrieval augmented generation) (work in progress)](https://github.com/vinnik-dmitry07/llm-odqa)
-* 
+
 Computer Vision:
 * [AR object manipulation using a webcam](https://github.com/vinnik-dmitry07/minimal-hand)
 * [Fake image detection](https://github.com/vinnik-dmitry07/fake-image-detection)
