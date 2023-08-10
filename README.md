@@ -1,4 +1,4 @@
-### Projects
+## Projects
 Computer Vision:
 * [Aesthetic furniture generation and variations using Stable Diffusion, DreamBooth, unCLIP](https://github.com/vinnik-dmitry07/furniture-generation)
 * [AR object manipulation using a webcam](https://github.com/vinnik-dmitry07/minimal-hand)
@@ -14,6 +14,6 @@ Natural Language Processing:
   
 ... Many more well-described projects in the Repositories tab 🔝
 
-### Theses
+## Theses
 * [Master's thesis: "Associative metamemory" (K-NN retrieval agnostic to the database size)](https://github.com/vinnik-dmitry07/marginal-research#masters-thesis-associative-metamemory-in-english-in-ukrainian)
 * [Bachelors's thesis: "Intellectual trading strategy using Reinforcement Learning"](https://github.com/vinnik-dmitry07/marginal-research#bachelorss-thesis-intellectual-trading-strategy-using-reinforcement-learning-in-english-in-ukrainian)
