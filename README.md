@@ -1,5 +1,6 @@
 ## Projects
 Computer Vision:
+* [Super-Convergence on CIFAR10](https://github.com/vinnik-dmitry07/full-batch)
 * [Aesthetic furniture generation and variations using Stable Diffusion, DreamBooth, unCLIP](https://github.com/vinnik-dmitry07/furniture-generation)
 * [AR object manipulation using a webcam](https://github.com/vinnik-dmitry07/minimal-hand)
 * [Fake image detection](https://github.com/vinnik-dmitry07/fake-image-detection)
