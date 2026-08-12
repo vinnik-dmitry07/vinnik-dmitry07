@@ -1,3 +1,4 @@
+* [Favorite papers](https://github.com/vinnik-dmitry07/full-batch)
 ## Projects
 Computer Vision:
 * [Super-Convergence on CIFAR10](https://github.com/vinnik-dmitry07/full-batch)
