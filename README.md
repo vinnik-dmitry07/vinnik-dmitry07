@@ -1,4 +1,4 @@
-* [Favorite papers](https://github.com/vinnik-dmitry07/full-batch)
+* [Favorite papers](https://github.com/vinnik-dmitry07/favorite-papers)
 * [Autoresearch: an LLM agent evolving heuristics](https://github.com/vinnik-dmitry07/autoresearch)
 * [Super-Convergence on CIFAR10](https://github.com/vinnik-dmitry07/full-batch)
 
