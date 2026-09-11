@@ -1,5 +1,6 @@
 * [Favorite papers](https://github.com/vinnik-dmitry07/favorite-papers)
 * [Autoresearch: an LLM agent evolving heuristics](https://github.com/vinnik-dmitry07/autoresearch)
+* [Consensus AI: multimodel LLM council with a chairman](https://github.com/vinnik-dmitry07/consensus-ai)
 * [Super-Convergence on CIFAR10](https://github.com/vinnik-dmitry07/full-batch)
 
 ## Old Projects
