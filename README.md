@@ -1,4 +1,5 @@
 * [Favorite papers with citation map and 7 reviewers](https://github.com/vinnik-dmitry07/favorite-papers)
+* [Agent-Harness Seed Evolution Specification Meta Language (ASHES-ML)](https://github.com/vinnik-dmitry07/ashes-ml)
 * [Autoresearch: an LLM agent evolving heuristics](https://github.com/vinnik-dmitry07/autoresearch)
 * [Consensus AI: multimodel LLM council with a chairman](https://github.com/vinnik-dmitry07/consensus-ai)
 * [Super-Convergence on CIFAR10](https://github.com/vinnik-dmitry07/full-batch)
